@@ -44,10 +44,6 @@
 
 [3D-bin-packing](https://github.com/jerry800416/3D-bin-packing)
 
-OPTIMIZING THREE-DIMENSIONAL BIN PACKING THROUGH
+OPTIMIZING THREE-DIMENSIONAL BIN PACKING THROUGH SIMULATION
 
-SIMULATION
-
-A genetic algorithm for the three-dimensional bin packing problem with
-
-heterogeneous bins
+A genetic algorithm for the three-dimensional bin packing problem with heterogeneous bins
