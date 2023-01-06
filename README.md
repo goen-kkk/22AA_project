@@ -1,8 +1,6 @@
 # 22AA_project
 
-高级算法：装箱问题
-
-
+## 高级算法：装箱问题
 
 物流公司在流通过程中，需要将打包完毕的箱子装入到一个货车的车厢中，为了提高物流效率，需要将车厢尽量填满。
 
@@ -37,3 +35,19 @@
 额外功能
 
 - [x] 可视化装箱
+
+
+
+## Reference
+
+[3D-Bin-Packing-Problem](https://github.com/Janet-19/3d-bin-packing-problem)
+
+[3D-bin-packing](https://github.com/jerry800416/3D-bin-packing)
+
+OPTIMIZING THREE-DIMENSIONAL BIN PACKING THROUGH
+
+SIMULATION
+
+A genetic algorithm for the three-dimensional bin packing problem with
+
+heterogeneous bins
