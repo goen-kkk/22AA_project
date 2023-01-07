@@ -5,7 +5,7 @@ from painter import *
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--mode', type=str, default='online', help='static or online')
-    parser.add_argument('--visualize', type=bool, default=False, help='visualize or not')
+    parser.add_argument('--visualize', default=False, action='store_true',  help='visualize or not')
     args = parser.parse_args()
     return args
 
