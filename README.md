@@ -36,6 +36,17 @@
 
 - [x] 可视化装箱
 
+## Run
+
+```python
+python main.py --mode static --visualize
+```
+
+mode：static/online
+
+可视化：需要可视化加上`--visualize`
+
+具体数据在代码内调整
 
 
 ## Reference
